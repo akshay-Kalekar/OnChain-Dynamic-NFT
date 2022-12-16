@@ -1,4 +1,5 @@
 To create your smart contract
+
 Step 1 : Add the network api and your private key
 
 Step 2 : npx hardhat run scripts/deploy.js //Your contract is deployed locally
