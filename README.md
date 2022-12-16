@@ -12,7 +12,7 @@ Step2 : npx hardhat run --network NETWORK_NAME scripts/deploy.js //to deploy on 
 
 Smart contract addresss : 0xE0a9f0E35e41491aE471BD637E8aC945fbbeDa49
 
-Network : POlygon
+Network : Polygon
 
 Link: https://mumbai.polygonscan.com/address/0xE0a9f0E35e41491aE471BD637E8aC945fbbeDa49#code
 
