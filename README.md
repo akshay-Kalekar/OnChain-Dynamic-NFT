@@ -24,7 +24,7 @@ Your warrior nft is created ...
 
 contract -> write contract -> train
 
-You cna check your nft at 
+You can check your nft at 
 
 https://testnets.opensea.io/collection/chain-battles-tdfgsys1du
 
